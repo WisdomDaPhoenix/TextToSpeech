@@ -1,0 +1,6 @@
+Group A      Authentication
+Group B      Champions League Simulation
+Group C      Music Billboard Chart
+Group D      Cooperative Simulation
+Group E      Automation Bot
+Group F		 Event Booking Simulation
