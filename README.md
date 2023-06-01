@@ -1,2 +1,2 @@
 # TextToSpeech
-Converting text to audio
+Converting text to speech using a python module
